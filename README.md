@@ -1,1 +1,3 @@
 # AWS-Sagemaker-Airbnb
+
+Utilizing the powerful combination of Amazon SageMaker and XGBoost, I focused on extracting meaningful insights from a rich dataset. This involved intricate data handling procedures, including cleaning and preprocessing, to ensure the accuracy and reliability of our analysis. Leveraging the cloud-based capabilities of AWS, particularly S3, I managed the data efficiently, setting up dedicated storage buckets and ensuring seamless integration with our machine learning workflows. The core of this project centered around developing an effective machine learning model using XGBoost, renowned for its performance in classification tasks. The challenge was to not just build a model, but to fine-tune it to unravel the complexities.
